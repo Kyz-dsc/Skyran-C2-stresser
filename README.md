@@ -5,13 +5,10 @@
 ---
 ## <a id="menu"></a>🔱 » Menu
 
-- [☄・Deploys](#deploys)
 - [🔰・Features](#features)
 - [🌌・Discord](https://discord.gg/sawnVDutKd)
 - [🎉・Setting up](#setup)
 - [⚙・startup](#startup)
-## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Protect-Bot)
 
 ## <a id="features"></a>🛠 » Features
 
